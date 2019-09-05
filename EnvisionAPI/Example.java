@@ -24,11 +24,11 @@ public class Example {
 
 	  public static void main(String[] args){
 
-		    String baseRestURL = "https://eos.envisioncn.com";
+		    String baseRestURL = "https://xxxxxxxxxx.com";
 			String APIPath = "/solar-api/loginService/login";
 			String completeRestURL = baseRestURL + APIPath;
-			String username = "xiaobing.cai"; 
-			String password = "E4FlameH#";
+			String username = "xxxxxxx"; 
+			String password = "xxxxxx";
 			
 			//Create HTTPClient - Used to make Request to API
 			HttpClient httpClient = null;
